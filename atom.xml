@@ -18,8 +18,8 @@
   
   <entry>
     <title>blog_2</title>
-    <link href="http://example.com/2022/09/03/blog_2"/>
-    <id>http://example.com/2022/09/03/blog_2</id>
+    <link href="http://example.com/2022/09/03/blog_2/"/>
+    <id>http://example.com/2022/09/03/blog_2/</id>
     <published>2022-09-03T08:59:20.000Z</published>
     <updated>2022-09-03T09:03:48.871Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>blog_1</title>
-    <link href="http://example.com/2022/09/03/blog_1"/>
-    <id>http://example.com/2022/09/03/blog_1</id>
+    <link href="http://example.com/2022/09/03/blog_1/"/>
+    <id>http://example.com/2022/09/03/blog_1/</id>
     <published>2022-09-03T08:59:03.000Z</published>
     <updated>2022-09-03T09:03:21.453Z</updated>
     
@@ -52,8 +52,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/08/27/hello-world"/>
-    <id>http://example.com/2022/08/27/hello-world</id>
+    <link href="http://example.com/2022/08/27/hello-world/"/>
+    <id>http://example.com/2022/08/27/hello-world/</id>
     <published>2022-08-27T09:31:58.075Z</published>
     <updated>2022-09-03T01:43:52.892Z</updated>
     
