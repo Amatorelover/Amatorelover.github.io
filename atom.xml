@@ -6,7 +6,7 @@
   <link href="https://amatorelover.github.io/atom.xml" rel="self"/>
   
   <link href="https://amatorelover.github.io/"/>
-  <updated>2022-09-03T23:42:22.572Z</updated>
+  <updated>2023-02-18T03:53:41.000Z</updated>
   <id>https://amatorelover.github.io/</id>
   
   <author>
@@ -17,57 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>blog_2</title>
-    <link href="https://amatorelover.github.io/article/42380.html"/>
-    <id>https://amatorelover.github.io/article/42380.html</id>
-    <published>2022-09-03T08:59:20.000Z</published>
-    <updated>2022-09-03T23:42:22.572Z</updated>
+    <title>这是一个测试</title>
+    <link href="https://amatorelover.github.io/article/32ade1ea.html"/>
+    <id>https://amatorelover.github.io/article/32ade1ea.html</id>
+    <published>2023-02-18T03:53:41.000Z</published>
+    <updated>2023-02-18T03:53:41.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;我是谁&quot;&gt;&lt;a href=&quot;#我是谁&quot; class=&quot;headerlink&quot; title=&quot;我是谁&quot;&gt;&lt;/a&gt;我是谁&lt;/h1&gt;&lt;h2 id=&quot;我的名字&quot;&gt;&lt;a href=&quot;#我的名字&quot; class=&quot;headerlink&quot; title=&quot;我的名字&quot;&gt;&lt;/a&gt;我的名字&lt;/h2&gt;&lt;p&gt;李艳虎&lt;/p&gt;
+&lt;h2 id=&quot;我的人生&quot;&gt;&lt;a href=&quot;#我的人生&quot; class=&quot;headerlink&quot; title=&quot;我的人生&quot;&gt;&lt;/a&gt;我的人生&lt;/h2&gt;&lt;p&gt;一生傻逼&lt;/p&gt;
+&lt;h2 id=&quot;我们的世界&quot;&gt;&lt;a href=&quot;#我们的世界&quot; class=&quot;headerlink&quot; title=&quot;我们的世界&quot;&gt;&lt;/a&gt;我们的世界&lt;/h2&gt;&lt;p&gt;这是一个测试，谁会关心这个是什么东西。我们或者部署化后的河岸u回复恶化发i飞机嘿哈看加尔文就覅减肥阿娇覅就覅里掩护事故i杀敌维护恶风官方及。&lt;/p&gt;</summary>
     
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>blog_1</title>
-    <link href="https://amatorelover.github.io/article/42188.html"/>
-    <id>https://amatorelover.github.io/article/42188.html</id>
-    <published>2022-09-03T08:59:03.000Z</published>
-    <updated>2022-09-03T23:42:08.074Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;my-life&quot;&gt;&lt;a href=&quot;#my-life&quot; class=&quot;headerlink&quot; title=&quot;my life&quot;&gt;&lt;/a&gt;my life&lt;/h1&gt;&lt;h2 id=&quot;liyanhu&quot;&gt;&lt;a href=&quot;#liyanhu&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://amatorelover.github.io/article/16107.html"/>
-    <id>https://amatorelover.github.io/article/16107.html</id>
-    <published>2022-08-27T09:31:58.075Z</published>
-    <updated>2022-09-03T23:23:50.993Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
+    <category term="book" scheme="https://amatorelover.github.io/tags/book/"/>
     
   </entry>
   

@@ -1,6 +1,4 @@
-https://amatorelover.github.io/article/42380.html
-https://amatorelover.github.io/article/42188.html
-https://amatorelover.github.io/article/16107.html
+https://amatorelover.github.io/article/32ade1ea.html
 https://amatorelover.github.io/lib/fancybox/README.html
 https://amatorelover.github.io/404.html
 https://amatorelover.github.io/404/index.html
@@ -8,3 +6,4 @@ https://amatorelover.github.io/tags/index.html
 https://amatorelover.github.io/categories/index.html
 https://amatorelover.github.io/about/index.html
 https://amatorelover.github.io/
+https://amatorelover.github.io/tags/book/

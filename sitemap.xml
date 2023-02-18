@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://amatorelover.github.io/article/42380.html</loc>
+    <loc>https://amatorelover.github.io/article/32ade1ea.html</loc>
     
-    <lastmod>2022-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amatorelover.github.io/article/42188.html</loc>
-    
-    <lastmod>2022-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amatorelover.github.io/article/16107.html</loc>
-    
-    <lastmod>2022-09-03</lastmod>
+    <lastmod>2023-02-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -90,6 +72,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://amatorelover.github.io/tags/book/</loc>
+    <lastmod>2023-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
